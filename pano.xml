@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18116" appversion="6.1.15" start="node1">
+  <panorama id="node1" hideabout="1">
+    <input levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="2048" height="2048" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" projection="4" pan="-1"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="-153.42"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="135.3" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" info="" nodeid="node1" comment="" longitude="" heading="0" datetime="" copyright="" title="Smart CJM" source="" customnodeid="" description="" tags="panos"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" border="1" background="1" bordercolor="0x000000" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="cta-anima1" tilt="-12.91" url="" skinid="cta-anima" pan="-69.21" title="" target="" description=""/>
+      <hotspot id="Point03" customimagewidth="32" tilt="-10.8" fov="10" use3D="0" distance3D="182.881" url="" customimage="media/noun-3d.svg" customimageheight="32" skinid="ht_3d" pan="-18.41" title="360°-Ansicht" target="_blank" description=""/>
+      <polyhotspot id="Poly01" url="{node4}" title="" target="" description="">
+        <polystring>-30.69/16.03|-42.29/16.21|-42.49/5.95|-32.04/5.65</polystring>
+      </polyhotspot>
+      <polyhotspot id="videostarter" url="" title="" target="" description="">
+        <polystring>-352.74/-7.75|-7.7/-7.54|-7.64/4.08|-352.59/4.05</polystring>
+      </polyhotspot>
+      <polyhotspot id="polyvac" url="" title="" target="" description="./media/01.jpg">
+        <polystring>-68.32/9.93|-68.58/3.54|-86.26/3.56|-86.3/10.27</polystring>
+      </polyhotspot>
+      <polyhotspot id="polyvac" url="" title="" target="" description="./media/02.jpg">
+        <polystring>-54.32/-3.13|-68.59/-3.55|-68.63/-9.83|-54.36/-8.67</polystring>
+      </polyhotspot>
+      <polyhotspot id="polyvac" url="" title="" target="" description="./media/03.jpg">
+        <polystring>-68.8/-3.51|-86.41/-3.78|-86.52/-10.43|-69.02/-9.7</polystring>
+      </polyhotspot>
+      <polyhotspot id="vidpole" url="" title="" target="" description="./video/unternehmen-v2-1.m4v">
+        <polystring>-54.2/2.94|-68.53/3.25|-68.47/-3.45|-54.25/-2.97</polystring>
+      </polyhotspot>
+      <polyhotspot id="vidpole" url="" title="" target="_blank" description="./video/video2.m4v">
+        <polystring>-68.76/3.32|-68.76/-3.34|-86.29/-3.57|-86.3/3.31</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="https://latest.saas.smartcjm.com/m/smart_cjm_appointment/extern/calendar/?uid=10206f28-dc84-498b-8376-219ed3149fa1" title="" target="_blank" description="">
+        <polystring>-54.18/-9.84|-86.15/-12.03|-86.27/-13.71|-54.22/-11.09</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" tilt="0.010" fov="19.900" rotz="0.000" rotx="0.000" roty="0.000" pan="0.000" stretch="1.000" clickmode="0" handcursor="0" width="832" height="832">
+        <source url="media/01_patch (00000).png"/>
+      </image>
+      <video tilt="0.010" stretch="1.000" tiltsize="10.000" pansize="10.000" height="464" handcursor="1" pan="0.000" mode="1" roty="0.000" nodechangekeep="0" rotx="0.000" rotz="0.000" id="hallo" field="90.000" startmutedmobile="1" clickmode="0" ambientlevel="0.000" level="1.000" fov="19.900" width="464" loop="-1">
+        <source url="media/01_patch_1.mp4"/>
+      </video>
+    </media>
+    <transition zoomin="0" enabled="1" blendtime="0" type="cut" zoomspeed="2" zoomoutpause="1" zoomafterinfov="90" zoomout="4" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01">
+      <clip nodeid="" animtype="0" transitiontype="0" length="20" animtitle="" cliptitle="__FlyIn" nextcliptitle="" nextclipnodeid="">
+        <keyframe property="0" transitiontime="0" time="0" valuestring="" type="0" value="-1" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="0" valuestring="" type="0" value="0" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="0" valuestring="" type="0" value="70" additionaltrackid=""/>
+        <keyframe property="3" transitiontime="0" time="0" valuestring="" type="0" value="4" additionaltrackid=""/>
+        <keyframe property="0" transitiontime="0" time="20" bezieroutvalue="-1" valuestring="" type="2" bezierinvalue="-1" bezierintime="17.001" value="-1" bezierouttime="39.999" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="20" bezieroutvalue="0" valuestring="" type="2" bezierinvalue="0" bezierintime="11" value="0" bezierouttime="39.999" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="20" bezieroutvalue="70" valuestring="" type="2" bezierinvalue="70" bezierintime="11" value="70" bezierouttime="39.999" additionaltrackid=""/>
+        <keyframe property="0" transitiontime="0" time="10" bezieroutvalue="-8.51672" valuestring="" type="2" bezierinvalue="-8.51672" bezierintime="1" value="-8.51672" bezierouttime="12.999" additionaltrackid=""/>
+      </clip>
+    </animation>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" rubberband="0" contextprojections="0" contextvr="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" hideabout="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="2048" height="2048" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-1.36" fov="54.42" projection="4" pan="-68.46"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" info="" nodeid="node6" comment="" longitude="" heading="0" datetime="4/22/2022 6:17 PM" copyright="" title="Über uns" source="" customnodeid="" description="" tags="2022-04-21"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" border="1" background="1" bordercolor="0x000000" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="cta-anima" tilt="-12.77" url="{node8}" skinid="cta-anima" pan="-69.12" title="" target="" description=""/>
+      <hotspot id="Point03" customimagewidth="32" tilt="-11.25" fov="10" use3D="0" distance3D="182.881" url="" customimage="media/noun-3d.svg" customimageheight="32" skinid="ht_3d" pan="-18.52" title="360°-Ansicht" target="_blank" description=""/>
+      <polyhotspot id="Poly01" url="{node4}" title="" target="" description="">
+        <polystring>-30.69/16.03|-42.29/16.21|-42.49/5.95|-32.04/5.65</polystring>
+      </polyhotspot>
+      <polyhotspot id="videostarter" url="" title="" target="" description="">
+        <polystring>-352.74/-7.75|-7.7/-7.54|-7.64/4.08|-352.59/4.05</polystring>
+      </polyhotspot>
+      <polyhotspot id="polyvac" url="" title="" target="" description="./media/01.jpg">
+        <polystring>-68.46/9.64|-68.54/3.27|-86.31/3.45|-86.31/10.36</polystring>
+      </polyhotspot>
+      <polyhotspot id="polyvac" url="" title="" target="" description="./media/02.jpg">
+        <polystring>-54.33/-3.25|-68.4/-3.64|-68.4/-9.93|-54.23/-8.59</polystring>
+      </polyhotspot>
+      <polyhotspot id="polyvac" url="" title="" target="" description="./media/03.jpg">
+        <polystring>-68.58/-3.46|-86.37/-3.85|-86.32/-10.57|-68.56/-9.87</polystring>
+      </polyhotspot>
+      <polyhotspot id="vidpole" url="" title="" target="" description="./video/unternehmen-v2-1.m4v">
+        <polystring>-54.17/2.76|-68.47/3.08|-68.4/-3.44|-54.25/-2.9</polystring>
+      </polyhotspot>
+      <polyhotspot id="vidpole" url="" title="" target="_blank" description="./video/video2.m4v">
+        <polystring>-68.5/3.15|-68.62/-3.35|-86.29/-3.57|-86.33/3.27</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="https://latest.saas.smartcjm.com/m/smart_cjm_appointment/extern/calendar/?uid=10206f28-dc84-498b-8376-219ed3149fa1" title="" target="_blank" description="">
+        <polystring>-54.14/-9.78|-86.09/-12.09|-86.21/-13.67|-54.21/-11.18</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image id="Element01" tilt="0.010" fov="19.900" rotz="0.000" rotx="0.000" roty="0.000" pan="0.000" stretch="1.000" clickmode="0" handcursor="0" width="832" height="832">
+        <source url="media/01_patch (00000).png"/>
+      </image>
+      <video tilt="0.010" stretch="1.000" tiltsize="10.000" pansize="10.000" height="464" handcursor="0" pan="0.000" mode="1" roty="0.000" nodechangekeep="0" rotx="0.000" rotz="0.000" id="hallo" field="90.000" startmutedmobile="1" clickmode="0" ambientlevel="0.000" level="1.000" fov="19.900" width="464" loop="-1">
+        <source url="media/01-1.mp4"/>
+      </video>
+    </media>
+    <transition zoomin="0" enabled="1" blendtime="0" type="cut" zoomspeed="2" zoomoutpause="1" zoomafterinfov="90" zoomout="4" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01">
+      <clip nodeid="" animtype="0" transitiontype="0" length="10" animtitle="" cliptitle="__FlyIn" nextcliptitle="" nextclipnodeid="">
+        <keyframe property="0" transitiontime="0" time="0" valuestring="" type="0" value="-68.46" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="0" valuestring="" type="0" value="-1.36" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="0" valuestring="" type="0" value="54.42" additionaltrackid=""/>
+        <keyframe property="3" transitiontime="0" time="0" valuestring="" type="0" value="4" additionaltrackid=""/>
+        <keyframe property="0" transitiontime="0" time="10" bezieroutvalue="-68.46" valuestring="" type="2" bezierinvalue="-68.46" bezierintime="1" value="-68.46" bezierouttime="10.9" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="10" bezieroutvalue="-1.36" valuestring="" type="2" bezierinvalue="-1.36" bezierintime="1" value="-1.36" bezierouttime="10.9" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="20" bezieroutvalue="36.393" valuestring="" type="2" bezierinvalue="36.393" bezierintime="11" value="36.393" bezierouttime="20.9" additionaltrackid=""/>
+      </clip>
+    </animation>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" rubberband="0" contextprojections="0" contextvr="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" hideabout="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="2048" height="2048" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="-177.38"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="140.3" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" info="" nodeid="node4" comment="" longitude="" heading="0" datetime="" copyright="" title="Smart Patient eXperience" source="" customnodeid="" description="" tags="panos"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" border="1" background="1" bordercolor="0x000000" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" tilt="-8.02" url="{node5}" skinid="ht_node" pan="-275.57" title="" target="0.0/0.0/70.0" description=""/>
+      <hotspot id="cta-anima1" tilt="-13.36" url="" skinid="cta-anima" pan="-3.04" title="" target="" description=""/>
+      <hotspot id="Point02" tilt="-10.06" url="{node8}" skinid="ht_node" pan="-297.78" title="" target="" description=""/>
+      <polyhotspot id="polyvac" url="" title="" target="" description="./media/04.jpg">
+        <polystring>-3.09/8.47|-20.72/7.87|-20.74/-1.79|-3.16/-1.9</polystring>
+      </polyhotspot>
+      <polyhotspot id="polyvac" url="" title="" target="" description="./media/05.jpg">
+        <polystring>-344.39/-1.96|-2.78/-2.14|-2.87/-12.2|-344.36/-12.05</polystring>
+      </polyhotspot>
+      <polyhotspot id="vidpole" url="" title="" target="_blank" description="./video/khgz.m4v">
+        <polystring>-3.41/-2.28|-3.41/-12.17|-20.6/-11.43|-20.68/-2.14</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" blendtime="0" type="cut" zoomspeed="2" zoomoutpause="1" zoomafterinfov="90" zoomout="4" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01">
+      <clip nodeid="" animtype="0" transitiontype="0" length="10" animtitle="" cliptitle="__FlyIn" nextcliptitle="" nextclipnodeid="">
+        <keyframe property="0" transitiontime="0" time="0" valuestring="" type="0" value="0" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="0" valuestring="" type="0" value="0" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="0" valuestring="" type="0" value="57.9528" additionaltrackid=""/>
+        <keyframe property="3" transitiontime="0" time="0" valuestring="" type="0" value="4" additionaltrackid=""/>
+        <keyframe property="0" transitiontime="0" time="10" bezieroutvalue="0" valuestring="" type="2" bezierinvalue="0" bezierintime="0.001" value="0" bezierouttime="10010" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="10" bezieroutvalue="0" valuestring="" type="2" bezierinvalue="0" bezierintime="0.001" value="0" bezierouttime="10010" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="10" bezieroutvalue="43.5827" valuestring="" type="2" bezierinvalue="43.5827" bezierintime="0.001" value="43.5827" bezierouttime="10010" additionaltrackid=""/>
+      </clip>
+    </animation>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" rubberband="0" contextprojections="0" contextvr="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" hideabout="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="2048" height="2048" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" info="" nodeid="node8" comment="" longitude="" heading="0" datetime="" copyright="" title="News von der DMEA 2022" source="" customnodeid="" description="" tags="2022-04-21"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" border="1" background="1" bordercolor="0x000000" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <polyhotspot id="vidpole" url="" title="" target="_blank" description="./video/messe.m4v">
+        <polystring>-350.63/22.18|-347.6/-7.13|-11.92/-7.43|-9.15/22.02</polystring>
+      </polyhotspot>
+      <hotspot id="Point01" tilt="-0.64" url="" skinid="cta-anima" pan="-359.78" title="" target="_blank" description=""/>
+      <hotspot id="Point02" tilt="-13.77" url="{node5}" skinid="ht_node" pan="-267.24" title="" target="" description=""/>
+      <hotspot id="Point03" tilt="-9.46" url="{node7}" skinid="ht_node" pan="-230.08" title="" target="" description=""/>
+      <hotspot id="Point04" tilt="-10.96" url="{node4}" skinid="ht_node" pan="-87.93" title="" target="" description=""/>
+      <hotspot id="Point05" tilt="-3.71" url="{node1}" skinid="ht_node" pan="-133.78" title="" target="" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" blendtime="0" type="cut" zoomspeed="2" zoomoutpause="1" zoomafterinfov="90" zoomout="4" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01">
+      <clip nodeid="" animtype="0" transitiontype="0" length="20" animtitle="" cliptitle="__FlyIn" nextcliptitle="" nextclipnodeid="">
+        <keyframe property="0" transitiontime="0" time="0" valuestring="" type="0" value="-0.00192198" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="0" valuestring="" type="0" value="0.00826273" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="0" valuestring="" type="0" value="88.5638" additionaltrackid=""/>
+        <keyframe property="3" transitiontime="0" time="0" valuestring="" type="0" value="4" additionaltrackid=""/>
+        <keyframe property="0" transitiontime="0" time="20" bezieroutvalue="0" valuestring="" type="2" bezierinvalue="0" bezierintime="14" value="0" bezierouttime="10020" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="20" bezieroutvalue="0" valuestring="" type="2" bezierinvalue="0" bezierintime="14" value="0" bezierouttime="10020" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="20" bezieroutvalue="70" valuestring="" type="2" bezierinvalue="70" bezierintime="14" value="70" bezierouttime="10020" additionaltrackid=""/>
+      </clip>
+    </animation>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" rubberband="0" contextprojections="0" contextvr="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" hideabout="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="2048" height="2048" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-1.09" fov="44.08" projection="4" pan="0.07"/>
+      <flyin tilt="-1.68" fov="44.08" projection="4" pan="-0.68"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" info="" nodeid="node5" comment="" longitude="" heading="0" datetime="" copyright="" title="Unsere Ansprechpartner" source="" customnodeid="" description="" tags="panos"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" border="1" background="1" bordercolor="0x000000" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point02" tilt="-6.72" url="{node4}" skinid="ht_node" pan="-117.54" title="" target="" description=""/>
+      <hotspot id="Point03" customimagewidth="32" tilt="-14.93" fov="10" use3D="0" distance3D="182.881" url="" customimage="media/noun-3d.svg" customimageheight="32" skinid="ht_3d" pan="-233.25" title="360°-Ansicht" target="_blank" description=""/>
+      <hotspot id="Point04" customimagewidth="32" tilt="-14.94" fov="10" use3D="0" distance3D="182.881" url="" customimage="media/noun-3d.svg" customimageheight="32" skinid="ht_3d-4" pan="-274.09" title="360°-Ansicht" target="_blank" description=""/>
+      <hotspot id="Point05" customimagewidth="32" tilt="-11.6" fov="10" use3D="0" distance3D="182.881" url="" customimage="media/noun-3d.svg" customimageheight="32" skinid="ht_3d-3" pan="-267.59" title="360°-Ansicht" target="_blank" description=""/>
+      <hotspot id="Point06" customimagewidth="32" tilt="-10.15" fov="10" use3D="0" distance3D="182.881" url="" customimage="media/noun-3d.svg" customimageheight="32" skinid="ht_3d-2" pan="-238.74" title="360°-Ansicht" target="_blank" description=""/>
+      <hotspot id="cta-anima1" tilt="-18.9" url="" skinid="cta-anima" pan="-0.48" title="" target="" description=""/>
+      <polyhotspot id="Poly01" url="mailto:saskia.schreiber@smart-cjm.com" title="" target="_blank" description="">
+        <polystring>-334.92/-11.76|-357.35/-12.79|-357.46/-15.69|-334.96/-14.38</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="mailto:sven.wolff@smart-cjm.com" title="" target="_blank" description="">
+        <polystring>-1.79/-12.94|-24.61/-11.85|-24.67/-14.14|-1.95/-15.51</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="https://latest.saas.smartcjm.com/m/smart_cjm_appointment/extern/calendar/?uid=10206f28-dc84-498b-8376-219ed3149fa1" title="" target="_blank" description="">
+        <polystring>-334.75/-17|-334.74/-14.83|-24.81/-14.91|-24.84/-17.36</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly04" url="tel:+4921514474705" title="" target="_blank" description="">
+        <polystring>-334.96/-9.09|-345.34/-9.63|-345.43/-12.17|-334.93/-11.34</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly05" url="tel:+4915110635170" title="" target="_blank" description="">
+        <polystring>-345.88/-9.73|-357.26/-10.02|-357.34/-12.56|-345.79/-12.16</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly06" url="tel:+4921514474706" title="" target="_blank" description="">
+        <polystring>-1.98/-9.91|-13.65/-9.69|-13.66/-12.35|-2.14/-12.53</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly07" url="tel:+4915117660361" title="" target="_blank" description="">
+        <polystring>-14.23/-9.66|-24.54/-9.05|-24.64/-11.51|-14.06/-12.08</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" blendtime="0" type="cut" zoomspeed="2" zoomoutpause="1" zoomafterinfov="90" zoomout="4" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01">
+      <clip nodeid="" animtype="0" transitiontype="0" length="10" animtitle="" cliptitle="__FlyIn" nextcliptitle="" nextclipnodeid="">
+        <keyframe property="0" transitiontime="0" time="0" valuestring="" type="0" value="0.07" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="0" valuestring="" type="0" value="-1.09" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="0" valuestring="" type="0" value="44.08" additionaltrackid=""/>
+        <keyframe property="3" transitiontime="0" time="0" valuestring="" type="0" value="4" additionaltrackid=""/>
+        <keyframe property="0" transitiontime="0" time="10" bezieroutvalue="0.07" valuestring="" type="2" bezierinvalue="0.07" bezierintime="0.001" value="0.07" bezierouttime="10010" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="10" bezieroutvalue="-1.09" valuestring="" type="2" bezierinvalue="-1.09" bezierintime="0.001" value="-1.09" bezierouttime="10010" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="10" bezieroutvalue="54.2055" valuestring="" type="2" bezierinvalue="54.2055" bezierintime="0.001" value="54.2055" bezierouttime="10010" additionaltrackid=""/>
+      </clip>
+    </animation>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" rubberband="0" contextprojections="0" contextvr="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" hideabout="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="2048" height="2048" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1.89" fov="66.44" projection="4" pan="-1.03"/>
+      <flyin tilt="-0.25" fov="71.12" projection="4" pan="94.22"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" info="" nodeid="node7" comment="" longitude="" heading="0" datetime="4/22/2022 9:06 AM" copyright="" title="Unsere Terminals" source="" customnodeid="" description="" tags="2022-04-21"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" border="1" background="1" bordercolor="0x000000" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point02" tilt="-14.37" url="{node5}" skinid="ht_node" pan="-127.22" title="" target="" description=""/>
+      <hotspot id="Point03" customimagewidth="32" tilt="-12.74" fov="10" use3D="0" distance3D="182.881" url="" customimage="media/noun-3d.svg" customimageheight="32" skinid="ht_3d" pan="-321.91" title="360°-Ansicht" target="_blank" description=""/>
+      <hotspot id="Point04" customimagewidth="32" tilt="-12.14" fov="10" use3D="0" distance3D="182.881" url="" customimage="media/noun-3d.svg" customimageheight="32" skinid="ht_3d-4" pan="-43.06" title="360°-Ansicht" target="_blank" description=""/>
+      <hotspot id="Point05" customimagewidth="32" tilt="-5.88" fov="10" use3D="0" distance3D="182.881" url="" customimage="media/noun-3d.svg" customimageheight="32" skinid="ht_3d-3" pan="-27.5" title="360°-Ansicht" target="_blank" description=""/>
+      <hotspot id="Point06" customimagewidth="32" tilt="-6.02" fov="10" use3D="0" distance3D="182.881" url="" customimage="media/noun-3d.svg" customimageheight="32" skinid="ht_3d-2" pan="-334.12" title="360°-Ansicht" target="_blank" description=""/>
+      <hotspot id="Point01" tilt="-4.98" url="{node4}" skinid="ht_node" pan="-204.53" title="" target="" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" blendtime="0" type="cut" zoomspeed="2" zoomoutpause="1" zoomafterinfov="90" zoomout="4" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomfov="20"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01">
+      <clip nodeid="" animtype="0" transitiontype="0" length="20" animtitle="" cliptitle="__FlyIn" nextcliptitle="" nextclipnodeid="">
+        <keyframe property="0" transitiontime="0" time="0" valuestring="" type="0" value="27.7218" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="0" valuestring="" type="0" value="0.982501" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="0" valuestring="" type="0" value="49.82" additionaltrackid=""/>
+        <keyframe property="3" transitiontime="0" time="0" valuestring="" type="0" value="4" additionaltrackid=""/>
+        <keyframe property="0" transitiontime="0" time="20" bezieroutvalue="-1.03308" valuestring="" type="2" bezierinvalue="-1.03308" bezierintime="11" value="-1.03308" bezierouttime="10020" additionaltrackid=""/>
+        <keyframe property="1" transitiontime="0" time="20" bezieroutvalue="1.89248" valuestring="" type="2" bezierinvalue="1.89248" bezierintime="11" value="1.89248" bezierouttime="10020" additionaltrackid=""/>
+        <keyframe property="2" transitiontime="0" time="20" bezieroutvalue="66.4397" valuestring="" type="2" bezierinvalue="66.4397" bezierintime="11" value="66.4397" bezierouttime="10020" additionaltrackid=""/>
+      </clip>
+    </animation>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" invertcontrol="1" rubberband="0" contextprojections="0" contextvr="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" hideabout="1" dblclickfullscreen="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" latitude="" info="" nodeid="master" comment="" longitude="" heading="0" datetime="" copyright="" title="" source="" customnodeid="" description="" tags=""/>
+  </masternode>
+</tour>
